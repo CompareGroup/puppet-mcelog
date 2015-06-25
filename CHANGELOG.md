@@ -1,5 +1,13 @@
 
 #### [Current]
+ * [8df95a9](../../commit/8df95a9) - __(Joshua Hoblitt)__ Merge pull request [#6](../../issues/6) from cernops/master
+
+Added support for EL7
+ * [7a80641](../../commit/7a80641) - __(Stefano Zilli)__ Added support for EL7
+ * [2fcfbd0](../../commit/2fcfbd0) - __(Joshua Hoblitt)__ bump version to v1.1.2
+ * [68aa1db](../../commit/68aa1db) - __(Joshua Hoblitt)__ add Fedora to metadata.json operatingsystem_support
+ * [9634898](../../commit/9634898) - __(Joshua Hoblitt)__ add Fedora 22 to tested platforms list
+ * [1885add](../../commit/1885add) - __(Joshua Hoblitt)__ bump version to v1.1.1
  * [9f70832](../../commit/9f70832) - __(Joshua Hoblitt)__ fix fedora systemd service name
  * [dadf2da](../../commit/dadf2da) - __(Joshua Hoblitt)__ bump version to v1.1.0
  * [16332c6](../../commit/16332c6) - __(Joshua Hoblitt)__ Merge pull request [#8](../../issues/8) from jhoblitt/feature/fedora-support
